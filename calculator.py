@@ -12,9 +12,9 @@ def add(a, b):
     return a + b
 def subtract(a, b):
     return a - b
-def multiply(a, b):
+def mult(a, b):
     return a * b
-def divide(a, b):
+def div(a, b):
     return a / b
 def logarithm (a, b):
     return math.log(a, b)
