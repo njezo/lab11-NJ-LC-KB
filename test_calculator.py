@@ -1,3 +1,7 @@
+# https://github.com/njezo/lab11-NJ-LC-KB/tree/615473fc20e58d2186e0028c1c3ce93342e62975/Lab%20Repository
+# Partner 1: Your Name
+# Partner 2: Lydia Zhao
+
 import unittest
 from calculator import *
 
