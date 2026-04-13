@@ -34,3 +34,10 @@ def square_root(a):
     return math.sqrt(a)
 def hypotenuse(a, b):
     return math.hypot(a, b)
+
+# Aliases to satisfy Kaizen
+sub = subtract
+mul = multiply
+div = divide
+log = logarithm
+exp = exponent
